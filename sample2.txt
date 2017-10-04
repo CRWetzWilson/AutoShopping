@@ -1,2 +1,3 @@
 This is a second file that I will save as a txt file because odt files are a no-no.
 I'm now adding a new line of text here to show that this file has been changed by a separate developer.
+I think I will add a line of how wonderful and happy life is. How glad we are that there are things like rain and cold and stress in life. So great.
